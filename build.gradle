@@ -171,7 +171,7 @@ tasks.named('jar', Jar).configure {
         attributes([
                 'Specification-Title'     : "aquacombat",
                 'Specification-Vendor'    : "MindFaer",
-                'Specification-Version'   : '1', // We are version 1 of ourselves
+                'Specification-Version'   : '1.2', // We are version 1 of ourselves
                 'Implementation-Title'    : "aquacombat",
                 'Implementation-Version'  : project.jar.archiveVersion,
                 'Implementation-Vendor'   : "MindFaer",
